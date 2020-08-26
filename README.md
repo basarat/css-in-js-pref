@@ -1,4 +1,4 @@
-# Cypress for Create React App
+# CSS in JS Performance comparison between styled-components and emotion for React
 > [Subscribe on YouTube](https://www.youtube.com/basaratali) / [Follow on Twitter](https://twitter.com/basarat) 🌹.
 
 ## Setup 
