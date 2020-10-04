@@ -1,8 +1,8 @@
 # CSS in JS Performance comparison
 
-Performance comparison between styled-components and emotion for React.
+[Code for performance comparison between styled-components and emotion for React](https://www.youtube.com/watch?v=MN3RWhGudvw)
 
-> [Subscribe on YouTube](https://www.youtube.com/basaratali) / [Follow on Twitter](https://twitter.com/basarat) 🌹.
+> More: [Subscribe on YouTube](https://www.youtube.com/basaratali) / [Follow on Twitter](https://twitter.com/basarat) 🌹.
 
 ## Setup 
 Setup: 
